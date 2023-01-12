@@ -13,7 +13,6 @@ task clean(type: Delete) {
 ext {
     glideVersion = '4.13.0'
     navVersion = '2.5.3'
-    roomVersion = '2.4.3'
     coroutinesVersion = '1.6.4'
     fragmentKtxVersion = '1.5.4'
     hiltVersion = '2.44.2'
